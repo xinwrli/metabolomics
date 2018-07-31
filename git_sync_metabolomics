@@ -14,7 +14,7 @@ git add --all
 git commit -am "`date`"
 # git remote add mt https://github.com/xinli-git/metabolomics_supp
 # change to ssh url
-git remote add metabolomics_supp git@github.com:xinli-git/metabolomics_supp
+git remote add metabolomics_supp git@github.com:xinli-git/metabolomics
 git push --set-upstream metabolomics_supp master
 
 
