@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_ATTACTCG_R2	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_ATTACTCG_R2_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_TAATGCGC_R1	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_TAATGCGC_R1_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_TAATGCGC_R2	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_TAATGCGC_R2_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_CGCTCATT_R2	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_CGCTCATT_R2_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_TCCGGAGA_R1	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_TCCGGAGA_R1_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_CGGCTATG_R1	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_CGGCTATG_R1_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_CGGCTATG_R2	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_CGGCTATG_R2_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_TCCGGAGA_R2	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_TCCGGAGA_R2_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_ATTACTCG_R1	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_ATTACTCG_R1_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_CGCTCATT_R1	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_CGCTCATT_R1_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_TCCGCGAA_R1	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_TCCGCGAA_R1_fastqc.zip
+FastQC	all_sections	SCGPM_Ming-exosome-test_AWVL5_L1_TCCGCGAA_R2	/users/xli6/scripts/metabolomics/exosome/fastqc/output/SCGPM_Ming-exosome-test_AWVL5_L1_TCCGCGAA_R2_fastqc.zip
