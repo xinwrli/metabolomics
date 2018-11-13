@@ -1,0 +1,7 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-total_sequences	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-percent_gc
+SCGPM_Ming-exosome-smRNA_AWVKK_L1_ATTCAGAA_R1_trimmed.trim.mapped2hg19.novoalign	77.8817980857	18.6577204624	461462.0	45.4545454545	59.0
+SCGPM_Ming-exosome-smRNA_AWVKK_L1_CGCTCATT_R1_trimmed.trim.mapped2hg19.novoalign	72.2224527064	18.9000033154	361952.0	45.4545454545	61.0
+SCGPM_Ming-exosome-smRNA_AWVKK_L1_CTGAAGCT_R1_trimmed.trim.mapped2hg19.novoalign	99.2055431408	18.0467220258	1622618.0	45.4545454545	50.0
+SCGPM_Ming-exosome-smRNA_AWVKK_L1_GAATTCGT_R1_trimmed.trim.mapped2hg19.novoalign	79.9858645602	18.6444458415	668067.0	45.4545454545	58.0
+SCGPM_Ming-exosome-smRNA_AWVKK_L1_GAGATTCC_R1_trimmed.trim.mapped2hg19.novoalign	75.5654055092	18.882919575	597128.0	45.4545454545	60.0
+SCGPM_Ming-exosome-smRNA_AWVKK_L1_TCCGGAGA_R1_trimmed.trim.mapped2hg19.novoalign	58.8124462609	17.9327944256	481344.0	27.2727272727	46.0
