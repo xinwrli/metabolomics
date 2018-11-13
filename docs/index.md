@@ -1,6 +1,9 @@
 ## exosome profile
 
-You can use the [editor on GitHub](https://github.com/xinli-git/metabolomics_supp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### multiqc
+
+https://xinli-git.github.io/metabolomics/fastqc/SCGPM_Ming-exosome-test.html
+https://xinli-git.github.io/metabolomics/fastqc/SCGPM_Ming-exosome-smRNA.html
 
 ### fastqc
 
