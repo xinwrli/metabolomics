@@ -2,8 +2,8 @@
 
 ### multiqc
 
-* https://xinli-git.github.io/metabolomics/fastqc/SCGPM_Ming-exosome-test.html
-* https://xinli-git.github.io/metabolomics/fastqc/SCGPM_Ming-exosome-smRNA.html
+* https://xinli-git.github.io/metabolomics/multiqc/SCGPM_Ming-exosome-test.html
+* https://xinli-git.github.io/metabolomics/multiqc/SCGPM_Ming-exosome-smRNA.html
 
 ### fastqc
 
